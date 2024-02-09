@@ -68,8 +68,9 @@ end
 
 gem "devise", "~> 4.9"
 
-gem 'pg', '~> 1.5', '>= 1.5.4'
 gem 'rails_12factor', group: :production
 
 
 gem "tailwindcss-rails", "~> 2.3"
+
+gem 'pg', '~> 1.5', '>= 1.5.4'
